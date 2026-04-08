@@ -11,16 +11,16 @@ This GitHub is where I keep my personal projects — structured, documented, and
 ## Areas of Focus
 
 **Verification**
-SystemVerilog · UVM · Protocol VIPs (AXI, APB, SPI, I2C, UART) · Functional Coverage · Assertions · Scoreboarding
+   SystemVerilog · UVM · Protocol VIPs (AXI, APB, SPI, I2C, UART) · Functional Coverage · Assertions · Scoreboarding
 
 **RTL & FPGA**
-Xcelium · Palladium · Questa · RTL Design · FPGA Design Flows · Vivado · ModelSim · Timing Closure
+   Xcelium · Palladium · Questa · RTL Design · FPGA Design Flows · Vivado · ModelSim · Timing Closure
 
 **Embedded**
-STM32 / Cortex-M4 · TI Stellaris · PIC · Peripheral-level programming (UART, SPI, I2C, ADC, PWM)
+   STM32 / Cortex-M4 · TI Stellaris · PIC · Peripheral-level programming (UART, SPI, I2C, ADC, PWM)
 
 **Languages & Tools**
-SystemVerilog · TCL · Python · C
+   SystemVerilog · TCL · Python · C
 
 ---
 
