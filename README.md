@@ -70,4 +70,4 @@ SystemVerilog · TCL · Python · C
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([[https://linkedin.com/ayengec](https://www.linkedin.com/in/alican-yenge%C3%A7-24b58680)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alican-yenge%C3%A7-24b58680)
