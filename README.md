@@ -8,6 +8,7 @@ I build practical projects around **protocol VIP development**, reusable verific
 
 ## Focus Areas
 
+- ASIC Accelerated Verification & Emulation
 - RTL Design
 - SystemVerilog
 - UVM Verification
