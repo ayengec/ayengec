@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=600&lines=Emulation+Design+%26+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+FPGA+%7C+ASIC;Protocol+VIP+Development+%7C+RTL+Design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&width=600&lines=Emulation+%26+Design+%26+Verification+Engineer;SystemVerilog+%7C+UVM+%7C+FPGA+%7C+ASIC;Protocol+VIP+Development+%7C+RTL+Design)](https://git.io/typing-svg)
 
 ---
 
