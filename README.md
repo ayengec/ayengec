@@ -17,13 +17,15 @@ I build practical projects around **protocol VIP development**, reusable verific
 
 ---
 
-## Featured Projects
+## Project Portfolio
+
+### Verification & VIP
 
 - [AXI4_Lite_VIP](https://github.com/ayengec/AXI4_Lite_VIP)  
   UVM-based AXI4-Lite master VIP with example DUT, tests, logs, and waveform support.
 
 - [APB3_VIP](https://github.com/ayengec/APB3_VIP)  
-  APB3 verification IP project built with SystemVerilog and UVM.
+  UVM-based APB3 master verification IP with structured UVM components, example DUT, and runnable scripts.
 
 - [SPI_VIP](https://github.com/ayengec/SPI_VIP)  
   Reusable SPI verification environment for protocol-level testing.
@@ -34,8 +36,27 @@ I build practical projects around **protocol VIP development**, reusable verific
 - [UART_VIP](https://github.com/ayengec/UART_VIP)  
   UART verification IP project focused on reusable and clean testbench architecture.
 
+### FPGA / RTL
+
+- [FPGA-Design-with-Systemverilog](https://github.com/ayengec/FPGA-Design-with-Systemverilog)  
+  FPGA and RTL-oriented SystemVerilog design examples.
+
+- [Bresenham_Line_Algorithm_VGA__BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3)  
+  FPGA-based VGA project implementing Bresenham’s line drawing algorithm on BASYS3.
+
 - [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL)  
   TCL notes and examples for RTL and FPGA workflows.
+
+### Embedded / MCU
+
+- [STM32F4_Projects](https://github.com/ayengec/STM32F4_Projects)  
+  Embedded projects for STM32F4 / Cortex-M4 focused on low-level peripheral programming.
+
+- [Stellaris_LM4F120XL_Projects](https://github.com/ayengec/Stellaris_LM4F120XL_Projects)  
+  Peripheral-level embedded projects for the TI Stellaris LaunchPad (LM4F120XL).
+
+- [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects)  
+  PIC-based embedded projects covering UART, ADC, PWM, I2C, and SPI examples.
 
 ---
 
@@ -51,7 +72,7 @@ RTL Design, UVM, FPGA, Verification, Bus Protocols, VIP Development
 
 ## Current Direction
 
-Currently building a protocol-oriented verification portfolio with reusable VIP projects and well-documented repositories.
+Currently building a project portfolio across three main areas: protocol verification IPs, FPGA / RTL design, and embedded MCU development, with an emphasis on clean documentation and practical implementation.
 
 ---
 
