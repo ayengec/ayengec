@@ -11,7 +11,7 @@ This GitHub is where I keep my personal projects — structured, documented, and
 ## Areas of Focus
 
 **Verification**
-   : SystemVerilog · UVM · Protocol VIPs (AXI, APB, SPI, I2C, UART) · Functional Coverage · Assertions · Scoreboarding
+   : SystemVerilog · UVM · Protocol VIPs (AXI, APB, SPI, I2C, UART, DDR, PCIe) · Functional Coverage · Assertions · Scoreboarding
 
 **RTL & FPGA**
    : Xcelium · Palladium · Questa · RTL Design · FPGA Design Flows · Vivado · ModelSim · Timing Closure
