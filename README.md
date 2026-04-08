@@ -1,4 +1,4 @@
-# Alican Yengec
+# Alican Yengeç
 
 Digital design and verification engineer focused on **FPGA**, **RTL design**, **SystemVerilog**, and **UVM**.
 
