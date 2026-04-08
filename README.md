@@ -1,8 +1,8 @@
-# Alican Yengeç
+# Alican Yengec
 
-Digital design and verification engineer focused on **FPGA**, **RTL design**, **SystemVerilog**, and **UVM**.
+Digital design and verification engineer focused on **ASIC accelerated verification & emulation**, **FPGA**, **RTL design**, **SystemVerilog**, and **UVM**.
 
-I build practical projects around **protocol VIP development**, reusable verification environments, and structured digital design workflows.
+I build practical projects around **protocol VIP development**, reusable verification environments, FPGA-based digital design, and embedded MCU applications.
 
 ---
 
@@ -14,6 +14,7 @@ I build practical projects around **protocol VIP development**, reusable verific
 - UVM Verification
 - Protocol VIP Development
 - FPGA Design Flows
+- Embedded Systems
 
 ---
 
@@ -39,13 +40,13 @@ I build practical projects around **protocol VIP development**, reusable verific
 ### FPGA / RTL
 
 - [FPGA-Design-with-Systemverilog](https://github.com/ayengec/FPGA-Design-with-Systemverilog)  
-  FPGA and RTL-oriented SystemVerilog design examples.
+  FPGA and RTL-oriented SystemVerilog design examples and digital design projects.
 
 - [Bresenham_Line_Algorithm_VGA__BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3)  
   FPGA-based VGA project implementing Bresenham’s line drawing algorithm on BASYS3.
 
 - [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL)  
-  TCL notes and examples for RTL and FPGA workflows.
+  TCL notes and examples for RTL and FPGA design workflows.
 
 ### Embedded / MCU
 
@@ -53,26 +54,40 @@ I build practical projects around **protocol VIP development**, reusable verific
   Embedded projects for STM32F4 / Cortex-M4 focused on low-level peripheral programming.
 
 - [Stellaris_LM4F120XL_Projects](https://github.com/ayengec/Stellaris_LM4F120XL_Projects)  
-  Peripheral-level embedded projects for the TI Stellaris LaunchPad (LM4F120XL).
+  Peripheral-level embedded projects for the TI Stellaris LaunchPad.
 
 - [PIC_microcontroller_projects](https://github.com/ayengec/PIC_microcontroller_projects)  
   PIC-based embedded projects covering UART, ADC, PWM, I2C, and SPI examples.
 
 ---
 
+## Repository Style
+
+My repositories usually include:
+
+- structured project directories
+- clear README files
+- simulation and run instructions
+- protocol summaries and design notes
+- logs and waveform references
+- reusable verification components
+- practical, hands-on implementation
+
+---
+
 ## Tech Stack
 
-**Languages:**  
+**Languages**  
 SystemVerilog, TCL, Python, C
 
-**Topics:**  
-RTL Design, UVM, FPGA, Verification, Bus Protocols, VIP Development
+**Topics**  
+ASIC Verification, Emulation, RTL Design, UVM, FPGA, Embedded Systems, Bus Protocols, VIP Development
 
 ---
 
 ## Current Direction
 
-Currently building a project portfolio across three main areas: protocol verification IPs, FPGA / RTL design, and embedded MCU development, with an emphasis on clean documentation and practical implementation.
+Currently building a project portfolio across three main areas: **protocol verification IPs**, **FPGA / RTL design**, and **embedded MCU development**, with an emphasis on clean documentation and practical implementation.
 
 ---
 
