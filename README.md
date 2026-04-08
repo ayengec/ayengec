@@ -2,7 +2,7 @@
 
 ---
 
-I work as a digital design and verification engineer, with a focus on **ASIC accelerated verification & emulation**, **protocol VIP development**, and **FPGA-based RTL design**. My day-to-day involves building reusable UVM environments, verifying bus protocol implementations, and working across the full design-to-verification flow.
+As a digital design and verification/emulation engineer, with a focus on **ASIC accelerated verification & emulation**, **protocol VIP development**, and **FPGA-based RTL design**. My day-to-day involves building reusable UVM environments, verifying bus protocol implementations, and working across the full design-to-verification flow.
 
 This GitHub is where I keep my personal projects — structured, documented, and runnable.
 
