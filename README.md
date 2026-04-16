@@ -56,6 +56,7 @@ This GitHub is where I keep my personal projects — structured, documented, and
 | [FPGA-Design-with-Systemverilog](https://github.com/ayengec/FPGA-Design-with-Systemverilog) | RTL-oriented SystemVerilog design examples and FPGA projects |
 | [Bresenham_Line_VGA_BASYS3](https://github.com/ayengec/Bresenham_Line_Algorithm_VGA__BASYS3) | Bresenham's line algorithm implemented on BASYS3 via VGA output |
 | [TCL_for_RTL](https://github.com/ayengec/TCL_for_RTL) | TCL scripting notes and examples for RTL and FPGA design workflows |
+| [RISCV core with AXI4_Lite](https://github.com/ayengec/AXI4_Lite_RISCV_core) | RISCV RTL design workflow |
 
 ### Embedded / MCU
 
